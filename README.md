@@ -6,7 +6,7 @@ Profesional en el sector de la **Arquitectura, Ingeniería y Construcción (AEC)
 
 ### 🏛️ Diseño y Dirección de Obras.
 Dirijo mi estudio de **Diseño y Construcción** especializado en:
-- **Diseño Residencial y Comercial:** Proyectos urbanos, rurales y comerciales.
+- **Diseño Residencial y Comercial:** Proyectos urbanos, rurales y locales comerciales.
 - **Logística e Industria:** Depósitos, naves industriales y centros logísticos.
 - **Formación:** Instructor y capacitador de diseñadores en software líder 3D (Comercial y Open Source).
 
