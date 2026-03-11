@@ -12,8 +12,8 @@ Dirijo mi estudio de **Diseño y Construcción** especializado en:
 
 ### 🐧 Filosofía Open Source & Web
 Desarrollo y diseño íntegramente sobre **Debian**, utilizando un stack de herramientas libres:
-- **Modelado 3D & BIM:** FreeCAD y Bonsai Blender (BlenderBIM).
-- **Ingeniería 2D:** QCAD para planos 2D de ingeniería civil.
+- **Modelado 3D & BIM:** FreeCAD y Bonsai Blender (BonsaiBIM).
+- **Ingeniería 2D:** QCAD para planos de ingeniería civil.
 - **Geomática:** QGIS / QAD (Quantum Aided Design) planos de topografía y mapas cartograficos.
 - **Web:** HTML5, CSS3, JavaScript para presentaciones visuales arquitectónicas.
 
