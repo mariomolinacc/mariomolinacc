@@ -4,7 +4,7 @@ Profesional en el sector de la **Arquitectura, Ingeniería y Construcción (AEC)
 
 ---
 
-### 🏛️ Diseño, Planificación y Dirección de Obras.
+### 🏛️ Diseño y Dirección de Obras.
 Dirijo mi estudio de **Diseño y Construcción** especializado en:
 - **Diseño Residencial y Comercial:** Proyectos urbanos, rurales y comerciales.
 - **Logística e Industria:** Depósitos, naves industriales y centros logísticos.
@@ -38,6 +38,7 @@ Desarrollo y diseño íntegramente sobre **Debian**, utilizando un stack de herr
 ---
 📫 **Contacto:** [Mi Sitio Web](https://mariomolinacc.github.io)
 
+--
 
 # Mi Proyecto Web
 Este es mi sitio desarrollado con **HTML, CSS y JavaScript**.
