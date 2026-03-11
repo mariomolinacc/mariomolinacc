@@ -6,7 +6,7 @@ Profesional con mas de tres decadas de experiencia en diseño y desarrollo de pr
 
 ### 🏛️ Diseño y Dirección de Obras.
 Dirijo mi estudio de **Diseño y Construcción** especializado en:
-- **Diseño Residencial y Comercial:** Proyectos urbanos, rurales y locales comerciales.
+- **Diseño Residencial y Comercial:** Viviendas (urbanos y rurales), locales comerciales.
 - **Logística e Industria:** Depósitos, naves industriales y centros logísticos.
 - **Formación:** Instructor y capacitador de diseñadores en software líder 3D (Comercial y Open Source).
 
