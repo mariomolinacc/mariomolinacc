@@ -38,12 +38,3 @@ Desarrollo y diseño íntegramente sobre **Debian**, utilizando un stack de herr
 ---
 📫 **Contacto:** [Mi Sitio Web](https://mariomolinacc.github.io)
 
---
-
-# Mi Proyecto Web
-Este es mi sitio desarrollado con **HTML, CSS y JavaScript**.
-
-## Tecnologías usadas:
-- Debian OS
-- VSCodium
-- GitHub Pages
