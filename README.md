@@ -1,6 +1,6 @@
 # Hola, soy Mario Molina 👋 
 
-Profesional con mas de tres decadas de experiencia en diseño y gerencia de proyectos de **Arquitectura, Ingeniería y Construcción (AEC)**. Mi enfoque actual combina la solidez de la gestión de proyectos con la innovación del desarrollo web y las tecnologías de diseño 3D.
+Profesional con mas de tres decadas de experiencia en diseño y gerencia de proyectos de **Arquitectura, Ingeniería y Construcción (AEC)**. Su práctica profesional actual integra la robustez de la gestión de proyectos con el dominio de las tecnologías de diseño tridimensional y el desarrollo web para la creación de presentaciones y visualizaciones 3D en infraestructura digital.
 
 ---
 
