@@ -31,9 +31,9 @@ Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**
 
 ### 🏢 Software Comercial (Entornos Corporativos)
 - **CAD & BIM:** 
-- **[AutoCAD Civil 3D](https://www.autodesk.com/latam/products/civil-3d/overview)
-- **[SketchUp](https://sketchup.trimble.com/es/products/sketchup-for-web)
-- **[Revit](https://www.autodesk.com/latam/products/revit/overview)
+- **[AutoCAD Civil 3D]**(https://www.autodesk.com/latam/products/civil-3d/overview)
+- **[SketchUp]**(https://sketchup.trimble.com/es/products/sketchup-for-web)
+- **[Revit]**(https://www.autodesk.com/latam/products/revit/overview)
 
 
 ---
