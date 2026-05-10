@@ -15,8 +15,8 @@ Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**
 
 - **Modelado 3D & BIM:** FreeCAD y Bonsai Blender (BonsaiBIM).
 - **Ingeniería 2D:** QCAD para planos de ingeniería civil.
-- **Geomática:** QGIS / QAD (Quantum Aided Design) planos de topografía y mapas cartograficos.
-- **Web:** HTML5, CSS3, JavaScript para presentaciones visuales arquitectónicas.
+- **Geomática:** QGIS / QAD Planos de topografía y mapas cartograficos.
+- **Desarrollo Web:** HTML5, CSS3, JavaScript para presentaciones visuales arquitectónicas.
 
 *En proyectos corporativos, integro flujos de trabajo con software comercial (AutoCAD Civil 3D, SketchUp, Revit, SAP) según requerimientos específicos.*
 
