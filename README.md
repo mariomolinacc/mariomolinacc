@@ -18,7 +18,7 @@ Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**
 - **Geomática:** QGIS / QAD Planos de topografía y mapas cartograficos.
 - **Desarrollo Web:** HTML5, CSS3, JavaScript para presentaciones visuales arquitectónicas.
 
-*En proyectos corporativos, integro flujos de trabajo con software comercial (AutoCAD Civil 3D, SketchUp, Revit, SAP) según requerimientos específicos.*
+*Nota: **Mantiene interoperabilidad** con estándares corporativos con **formatos IFC, DWG y RVT**, utilizando **AutoCAD Civil 3D, Revit y SAP**, cuando los requerimientos del proyecto lo exigen.*
 
 ---
 
