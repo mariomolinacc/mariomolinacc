@@ -30,10 +30,10 @@ Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**
 - **Desarrollo Web:** HTML5, CSS3 y JavaScript - [VSCodium](https://vscodium.com/)
 
 ### 🏢 Software Comercial (Entornos Corporativos)
-- **CAD & BIM:** 
-- **[AutoCAD Civil 3D]**(https://www.autodesk.com/latam/products/civil-3d/overview)
-- **[SketchUp]**(https://sketchup.trimble.com/es/products/sketchup-for-web)
-- **[Revit]**(https://www.autodesk.com/latam/products/revit/overview)
+**CAD & BIM:** 
+- [AutoCAD Civil 3D](https://www.autodesk.com/latam/products/civil-3d/overview)
+- [SketchUp](https://sketchup.trimble.com/es/products/sketchup-for-web)
+- [Revit](https://www.autodesk.com/latam/products/revit/overview)
 
 
 ---
