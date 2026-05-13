@@ -2,7 +2,7 @@
 
 Profesional con más de tres décadas de experiencia en diseño y dirección de proyectos de **Arquitectura, Ingeniería y Construcción (AEC)**. 
 
-En su ejercicio actual, combina el desarrollo y la administración de proyectos con el uso de herramientas avanzadas como **CAD, BIM, GIS y desarrollo web**, lo que le permite crear visualizaciones y presentaciones sofisticadas para proyectos de infraestructura.
+En su ejercicio actual, combina el **diseño, desarrollo y la administración de proyectos**, con el uso de herramientas avanzadas como **CAD, BIM, GIS** y **el desarrollo web**, lo que le permite crear visualizaciones y presentaciones sofisticadas para proyectos de infraestructura.
 
 ---
 
