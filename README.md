@@ -1,6 +1,9 @@
 # Hola, soy Mario Molina 👋 
 
-Profesional con mas de tres decadas de experiencia en diseño y dirección de proyectos de Arquitectura, Ingeniería y Construcción (AEC). En su ejercicio actual, combina el desarrollo y la administración de proyectos con el uso de herramientas avanzadas como CAD, BIM, GIS y desarrollo web, lo que le permite crear visualizaciones y presentaciones sofisticadas para proyectos de infraestructura.
+Profesional con más de tres décadas de experiencia en diseño y dirección de proyectos de **Arquitectura, Ingeniería y Construcción (AEC)**. 
+
+En su ejercicio actual, combina el desarrollo y la administración de proyectos con el uso de herramientas avanzadas como **CAD, BIM, GIS y desarrollo web**, lo que le permite crear visualizaciones y presentaciones sofisticadas para proyectos de infraestructura.
+
 ---
 
 ### 🏛️ Diseño y Dirección de Obras.
