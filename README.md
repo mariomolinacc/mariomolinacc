@@ -10,7 +10,7 @@ En su ejercicio actual, combina el **diseño, desarrollo y la dirección de proy
 Dirijo mi estudio de **Diseño y Construcción** especializado en:
 - **Diseño Residencial y Comercial:** Viviendas (urbanos y rurales), locales comerciales.
 - **Logística e Industria:** Depósitos, naves industriales y centros logísticos.
-- **Formación:** Instructor y capacitador de diseñadores en software líder 3D (Comercial y Open Source).
+- **Formación:** Instructor y capacitador en software 3D como FreeCAD, AutoCAD y otros (Comercial y Open Source).
 
 ### 🐧 Filosofía Open Source & Web
 Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**, promoviendo un flujo de trabajo basado en software libre en su estudio, para proyectos de Diseño y Construcción, en obras particulares:
