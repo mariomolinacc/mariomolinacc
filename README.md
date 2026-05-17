@@ -18,9 +18,9 @@ Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**
 - **Ingeniería 2D:** QCAD para planos de ingeniería civil.
 - **Geomática:** QGIS / QAD Planos de topografía y mapas cartograficos.
 - **Desarrollo Web:** HTML5, CSS3, JavaScript para presentaciones visuales arquitectónicas.
-- **Interoperabilidad:** Mantiene interoperabilidad con estándares corporativos con **formatos IFC, DWG y RVT**
-- **Software Comercial para corporaciones:** Utiliza **AutoCAD Civil 3D, Revit y SAP**, cuando los requerimientos del proyecto lo exigen.
-- **Flexibilidad Tecnológica** Opera una infraestructura técnica multisistemas y multiplataforma, manteniendo compatibilidad nativa con Debian GNU/Linux, macOS Unix y Windows para soportar suites como AutoCAD Civil 3D, Revit y software open source.
+- **Interoperabilidad:** Mantiene compatibilidad con formatos corporativos como **IFC, DWG y RVT**
+- **Software Comercial:** Utiliza **AutoCAD Civil 3D, Revit y SAP**, cuando los requerimientos del proyecto lo exigen.
+- **Flexibilidad Tecnológica** Opera una infraestructura multisistemas y multiplataforma, con Debian GNU/Linux, macOS Unix y Windows para soportar suites como AutoCAD Civil 3D, Revit y software open source.
 
 ---
 
