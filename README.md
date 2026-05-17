@@ -13,14 +13,14 @@ Dirijo mi estudio de **Diseño y Construcción** especializado en:
 - **Formación:** Instructor y capacitador de diseñadores en software líder 3D (Comercial y Open Source).
 
 ### 🐧 Filosofía Open Source & Web
-Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**, promoviendo un flujo de trabajo basado en software libre en su estudio, para proyectos de Diseño y Construcción:
+Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**, promoviendo un flujo de trabajo basado en software libre en su estudio, para proyectos de Diseño y Construcción, en obras particulares:
 
 - **Modelado 3D & BIM:** FreeCAD y Bonsai Blender (BonsaiBIM).
 - **Ingeniería 2D:** QCAD para planos de ingeniería civil.
 - **Geomática:** QGIS / QAD Planos de topografía y mapas cartograficos.
 - **Desarrollo Web:** HTML5, CSS3, JavaScript para presentaciones visuales arquitectónicas.
 - **Interoperabilidad:** Mantiene interoperabilidad con estándares corporativos con **formatos IFC, DWG y RVT**
-- **Software Comercial:** Utiliza **AutoCAD Civil 3D, Revit y SAP**, cuando los requerimientos del proyecto lo exigen.
+- **Software Comercial para corporaciónes:** Utiliza **AutoCAD Civil 3D, Revit y SAP**, cuando los requerimientos del proyecto lo exigen, como algunas empresas multinacionales.
 
 ---
 
