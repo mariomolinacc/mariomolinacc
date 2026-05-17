@@ -19,7 +19,7 @@ Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**
 - **Geomática:** QGIS / QAD Planos de topografía y mapas cartograficos.
 - **Desarrollo Web:** HTML5, CSS3, JavaScript para presentaciones visuales arquitectónicas.
 - **Interoperabilidad:** Mantiene compatibilidad con formatos corporativos como **IFC, DWG y RVT**
-- **Flexibilidad Tecnológica** Opera una infraestructura multisistemas y multiplataforma, con Debian GNU/Linux, macOS Unix y Windows para soportar AutoCAD Civil 3D y Revit, cuando los requerimientos de un proyecto lo exigen.
+- **Flexibilidad Tecnológica** Opera infraestructura multisistemas y multiplataforma, con Debian GNU/Linux, macOS Unix y Windows para soportar AutoCAD Civil 3D y Revit, cuando los requerimientos de un proyecto lo exigen.
 
 ---
 
