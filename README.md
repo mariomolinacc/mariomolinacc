@@ -12,7 +12,7 @@ Dirijo mi estudio de **Diseño y Construcción** especializado en:
 - **Logística e Industria:** Depósitos, naves industriales y centros logísticos.
 
 ### 🐧 Filosofía Open Source & Web
-Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**, promoviendo un flujo de trabajo basado en software libre en su estudio, para proyectos de Diseño y Construcción en obras particulares:
+Diseño y desarrollo proyectos íntegramente sobre entornos **Debian GNU/Linux**, promoviendo un flujo de trabajo basado en software libre en su estudio, para proyectos de Diseño y Construcción en obras particulares:
 
 - **Modelado 3D & BIM:** FreeCAD y Bonsai Blender (BonsaiBIM).
 - **Ingeniería 2D:** QCAD para planos de ingeniería civil.
