@@ -1,6 +1,6 @@
 # Hola, soy Mario Molina 👋 
 
-**Constructor Civil** interdisciplinario con más de 35 años de experiencia en ingeniería, tecnología y gestión de proyectos, especializado en diseño y desarrollo en el sector AEC (Arquitectura, Ingeniería y Construcción). 
+**Constructor Civil** interdisciplinario con más de 35 años de experiencia en ingeniería, tecnología y gestión de proyectos, especializado en diseño y desarrollo en el sector AEC (Arquitectura, Ingeniería y Construcción), abarcando edificaciones hasta complejos industriales. 
 
 Integra **diseño y dirección de proyectos** usando **CAD, BIM, GIS y desarrollo web** para crear maquetas virtuales inteligentes que facilitan la simulación 3D, la gestión digital y la optimización de riesgos, plazos y costos en edificaciones y estructuras civiles.
 
