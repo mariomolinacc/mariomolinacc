@@ -2,7 +2,7 @@
 
 Constructor Civil interdisciplinario con mas de 35 años de experiencia en ingeniería, tecnología y gestión de proyectos. Su trayectoria especializada abarca el diseño, desarrollo y dirección de proyectos de **Arquitectura, Ingeniería y Construcción (AEC)**. 
 
-En su ejercicio actual, combina el **diseño, desarrollo y la dirección de proyectos**, con el uso de herramientas avanzadas como **CAD, BIM, GIS** y **el Desarrollo Web**, lo que le permite crear visualizaciones y presentaciones sofisticadas para proyectos de viviendas, edificaciones y estructuras civiles.
+En su ejercicio actual, combina el **diseño, desarrollo y la dirección de proyectos**, con el uso de herramientas avanzadas como **CAD, BIM, GIS** y **el Desarrollo Web**, dedicado a la creación de maquetas virtuales inteligentes. Su metodología facilita la simulación y visualización arquitectónica tridimensional, permitiendo la planificación y gestión digital de proyectos, lo cual resulta en la reducción de riesgos, la optimización de plazos y la disminución de costes.para proyectos de viviendas, edificaciones y estructuras civiles.
 
 ---
 
