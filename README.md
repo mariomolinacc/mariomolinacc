@@ -40,6 +40,5 @@ Diseña y desarrolla proyectos íntegramente sobre entornos **Debian GNU/Linux**
 - Es Instructor y capacitador en software 3D como FreeCAD, AutoCAD, SketchUp y otros (Comercial y Open Source).
 
 --
-📫 **Contacto:** [Mi Sitio Web](https://mariomolinacc.github.io) | 📍
-Argentina
+📫 **Contacto:** [Mi Sitio Web](https://mariomolinacc.github.io) | 📍 Buenos Aires, Argentina
 
