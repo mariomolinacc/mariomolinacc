@@ -1,8 +1,11 @@
 # Hola, soy Mario Molina 👋 
 
-**Constructor Civil** interdisciplinario con más de 35 años de experiencia en ingeniería, tecnología y gestión de proyectos. Su trayectoria abarca el diseño, desarrollo y dirección de proyecto de viviendas, edificaciones y complejos industriales.
+**Constructor Civil** interdisciplinario con más de 35 años de experiencia en ingeniería, tecnología y construcción. Mi trayectoria abarca el diseño, desarrollo y dirección de proyecto de viviendas, edificación comercial y complejos industriales.
 
-Integro **diseño y desarrollo de proyectos** usando **CAD, BIM, GIS y desarrollo web** para crear maquetas virtuales inteligentes que facilitan la simulación 3D, la gestión digital y la optimización de riesgos, plazos y costos en edificaciones y estructuras civiles.
+Integro tecnologías de diseño 3D y análisis como —BIM, CAD, CAE, impresión 3D y Geomática— para optimizar proyectos complejos de alcance global.
+
+Actualmente trabajo de manera independiente desarrollando proyectos para clientes particulares y empresas, **abarcando desde el diseño conceptual hasta la dirección técnica de obra**, con un marcado énfasis en la innovación y la eficiencia.
+
 
 ---
 
