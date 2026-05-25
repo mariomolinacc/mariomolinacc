@@ -1,6 +1,6 @@
 # Hola, soy Mario Molina 👋 
 
-**Constructor Civil** con más de tres decadas de experiencia en los sectores de ingeniería, tecnología y construcción. Me especializo en el diseño, desarrollo y dirección técnica de proyectos residenciales, comerciales e industriales.
+**Constructor Civil** con más de tres decadas de experiencia en los sectores de ingeniería y construcción. Me especializo en el diseño, desarrollo y dirección técnica de proyectos residenciales, comerciales e industriales.
 
 Actualmente, proporciono servicios desarrollando proyectos para clientes particulares y empresas, — abarcando desde el diseño conceptual hasta la dirección técnica de obras—, desde viviendas individuales, hasta centros comerciales y depositos logísticos, con un marcado énfasis en la innovación y la eficiencia.
 
