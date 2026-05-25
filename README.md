@@ -9,10 +9,13 @@ Integro tecnologías de diseño y análisis como —BIM, CAD, CAE, impresión 3D
 
 ---
 
-### 🏛️ Diseño y Dirección de Obras.
-Dirijo mi estudio de **Diseño y Construcción** especializado en:
-- **Diseño Residencial y Comercial:** Viviendas (urbanos y rurales), locales comerciales.
-- **Logística e Industria:** Depósitos, naves industriales y centros logísticos.
+Servicios de Diseño y Construcción
+
+- **Diseño Residencial** — Diseño de viviendas (urbanas y rurales) y edificaciónes.
+- **Diseño Comercial** — Diseño de locales y centros comerciales.
+- **Ampliaciones y Remodelaciones** — Modificaciones para optimizar espacios.
+- **Logística e Industria** — Depósitos, naves industriales y centros logísticos.
+
 
 ### 🐧 Filosofía Open Source & Web
 Diseño y desarrollo proyectos íntegramente sobre entornos **Debian GNU/Linux**, promoviendo un flujo de trabajo basado en software libre en su estudio, para proyectos de Diseño y Construcción en obras particulares:
