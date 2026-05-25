@@ -44,5 +44,5 @@ Integro tecnologías de diseño y análisis como —BIM, CAD, CAE, impresión 3D
 - Instructor y capacitador en software 3D como FreeCAD, AutoCAD, SketchUp y otros (Comercial y Open Source).
 
 --
-📫 **Contacto:** Mi Sitio Web: https://mariomolinacc.github.io | 📧 molina.aec@gmail.com | 📍 Buenos Aires, Argentina
+📫 **Contacto:**[Mi Sitio Web:](https://mariomolinacc.github.io) | 📧 molina.aec@gmail.com | 📍 Buenos Aires, Argentina
 
