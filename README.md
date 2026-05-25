@@ -4,7 +4,7 @@
 
 Actualmente ejerzo de manera independiente desarrollando proyectos para clientes particulares y empresas, — abarcando desde el diseño conceptual hasta la dirección técnica de obras—, desde viviendas individuales, hasta centros comerciales y depositos logísticos, con un marcado énfasis en la innovación y la eficiencia.
 
-Integro tecnologías de diseño 3D y análisis como —BIM, CAD, CAE, impresión 3D y Geomática— para optimizar proyectos complejos de escala  global.
+Integro tecnologías de diseño y análisis como —BIM, CAD, CAE, impresión 3D y Geomática— para optimizar proyectos complejos de escala  global.
 
 
 ---
