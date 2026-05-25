@@ -17,15 +17,13 @@ Integro tecnologías de diseño y análisis como —BIM, CAD, CAE, impresión 3D
 - **Logística e Industria** — Depósitos, naves industriales y centros logísticos.
 
 
-### Filosofía Open Source & Web
-Diseño y desarrollo proyectos íntegramente sobre entornos **Debian GNU/Linux**, promoviendo un flujo de trabajo basado en software libre en su estudio, para proyectos de Diseño y Construcción en obras particulares:
+### Infraestructura y Entorno de Trabajo
 
-- **Modelado 3D & BIM:** FreeCAD y Bonsai Blender (BonsaiBIM).
-- **Ingeniería 2D:** QCAD para planos de ingeniería civil.
-- **Geomática:** QGIS / QAD Planos de topografía y mapas cartograficos.
-- **Desarrollo Web:** HTML5, CSS3, JavaScript para presentaciones visuales arquitectónicas.
-- **Interoperabilidad:** Mantiene compatibilidad con formatos corporativos como **IFC, DWG y RVT**
-- **Flexibilidad Tecnológica** Opera infraestructura multisistemas y multiplataforma, con Debian GNU/Linux, macOS Unix y Windows para soportar AutoCAD Civil 3D y Revit, cuando los requerimientos de un proyecto lo exigen.
+- **Trabaja con estaciones multisistema** (Debian, macOS y Windows). 
+- **Para clientes corporativos** utiliza AutoCAD, Civil 3D, Revit y SAP según cada proyecto. 
+- **Para clientes privados** emplea FreeCAD, BonsaiBIM y QGIS sobre Debian, reduciendo costos sin perder precisión. 
+- **Mantiene compatibilidad** con formatos IFC, DWG y RVT, 
+- **Desarrollo web** Crea visualizaciones web con HTML, CSS y JavaScript para proyectos arquitectónicos.
 
 ---
 
