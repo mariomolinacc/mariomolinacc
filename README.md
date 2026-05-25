@@ -9,7 +9,7 @@ Integro tecnologías de diseño y análisis como —BIM, CAD, CAE, impresión 3D
 
 ---
 
-Servicios de Diseño y Construcción
+### Servicios de Diseño y Construcción
 
 - **Diseño Residencial** — Diseño de viviendas (urbanas y rurales) y edificaciónes.
 - **Diseño Comercial** — Diseño de locales y centros comerciales.
@@ -17,7 +17,7 @@ Servicios de Diseño y Construcción
 - **Logística e Industria** — Depósitos, naves industriales y centros logísticos.
 
 
-### 🐧 Filosofía Open Source & Web
+### Filosofía Open Source & Web
 Diseño y desarrollo proyectos íntegramente sobre entornos **Debian GNU/Linux**, promoviendo un flujo de trabajo basado en software libre en su estudio, para proyectos de Diseño y Construcción en obras particulares:
 
 - **Modelado 3D & BIM:** FreeCAD y Bonsai Blender (BonsaiBIM).
