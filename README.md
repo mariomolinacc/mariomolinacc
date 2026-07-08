@@ -1,6 +1,6 @@
 # Hola, soy Mario Molina 👋 
 
-**Constructor Civil y Diseñador especializado en Gestion Digital**, con más de tres decadas de experiencia en los sectores de ingeniería y construcción. Me especializo en el diseño, desarrollo y dirección técnica de proyectos residenciales, comerciales e industriales.
+**Constructor Civil y Diseñador especializado en Gestión Digital**, con más de tres decadas de experiencia en los sectores de ingeniería y construcción. Me especializo en el diseño, desarrollo y dirección técnica de proyectos residenciales, comerciales e industriales.
 
 Integro tecnologías de diseño y análisis como **BIM, CAD, CAE, GIS y Geomática** para optimizar proyectos complejos de escala  global.
 
