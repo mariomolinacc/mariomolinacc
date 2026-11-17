@@ -15,10 +15,10 @@ Soluciones para Ingeniería y Arquitectura
 ### Infraestructura y Entorno de Trabajo
 
 - **Trabaja con estaciones multisistema** (Linux Debian, macOS y Windows). 
-- **Para clientes corporativos** utiliza sistemas tradicionales como AutoCAD, Civil 3D, Revit y SAP según cada proyecto. 
-- **Para clientes privados** emplea sistemas abiertos como FreeCAD, OpenCAD Studio, CADCraft, RustGIS, QGIS sobre Debian, reduciendo costos sin perder precisión. 
-- **Mantiene compatibilidad** con formatos IFC, DWG y RVT. 
-- **Desarrollo de plataformas web** Desarrolla sistemas de información web (SII) para visualización de planos, documentos de Ingeniería y arquitectura.
+- **Para clientes corporativos**:  utiliza sistemas tradicionales como AutoCAD, Civil 3D, Revit y SAP según cada proyecto. 
+- **Para clientes privados** : emplea sistemas abiertos como FreeCAD, OpenCAD Studio, CADCraft, RustGIS, QGIS sobre Debian, reduciendo costos sin perder precisión. 
+- **Mantiene compatibilidad** : con formatos IFC, DWG y RVT. 
+- **Desarrollo de plataformas web** : Desarrolla sistemas de información web (SII) para visualización de planos, documentos de Ingeniería y arquitectura.
 
 ---
 
