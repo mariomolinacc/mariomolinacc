@@ -1,6 +1,6 @@
 # Hola, mi nombre es Mario Molina 👋 
 
-**Soy Diseñador Civil, GeoInformático y Constructor Civil especializado en Ingeniería Digital CAD · GIS · BIM & Desarrollo Web**, con más de tres decadas de experiencia en los sectores de ingeniería, arquitectura e industria. Me especializo en el diseño, documentación técnica y dirección técnica de proyectos de construcción residenciales, comerciales e industriales.
+**Soy Diseñador Civil, GeoInformático y Constructor Civil especializado en Ingeniería Digital CAD · GIS · BIM & Desarrollo Web**, con más de tres decadas de experiencia en el desarrollo de proyectos de ingeniería, arquitectura e industria. Me especializo en el diseño, documentación técnica y dirección técnica de proyectos de construcción residenciales, comerciales e industriales.
 
 Integro sistemas y tecnologías de diseño y análisis como **CAD, CAE, GIS, BIM y Geomática** para optimizar proyectos complejos de escala  global.
 
