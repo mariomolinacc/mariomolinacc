@@ -18,7 +18,7 @@ Soluciones para Ingeniería y Arquitectura
 - **Para clientes corporativos**:  utiliza sistemas tradicionales como AutoCAD, Civil 3D, Revit y SAP según cada proyecto. 
 - **Para clientes privados** : emplea sistemas abiertos como FreeCAD, OpenCAD Studio, CADCraft, RustGIS, QGIS sobre Debian, reduciendo costos sin perder precisión. 
 - **Mantiene compatibilidad** : con formatos IFC, DWG y RVT. 
-- **Desarrollo de plataformas web** : Desarrolla sistemas de información web (SII) para visualización de planos, documentos de Ingeniería y arquitectura.
+- **Desarrollo de plataformas web** : Desarrolla sistemas de información web (SII), visores de planos, mapas y gestión de documental de Ingeniería y arquitectura.
 
 ---
 
