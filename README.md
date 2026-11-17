@@ -1,29 +1,24 @@
-# Hola, soy Mario Molina 👋 
+# Hola, mi nombre es Mario Molina 👋 
 
-**Constructor Civil y Diseñador especializado en Gestión Digital**, con más de tres decadas de experiencia en los sectores de ingeniería y construcción. Me especializo en el diseño, desarrollo y dirección técnica de proyectos residenciales, comerciales e industriales.
+**Soy Diseñador Civil, GeoInformático y Constructor Civil especializado en Ingeniería Digital CAD · GIS · BIM & Desarrollo Web**, con más de tres decadas de experiencia en los sectores de ingeniería, arquitectura e industria. Me especializo en el diseño, documentación técnica y dirección técnica de proyectos de construcción residenciales, comerciales e industriales.
 
-Integro tecnologías de diseño y análisis como **BIM, CAD, CAE, GIS y Geomática** para optimizar proyectos complejos de escala  global.
+Integro tecnologías de diseño y análisis como **CAD, CAE, GIS, BIM y Geomática** para optimizar proyectos complejos de escala  global.
 
-Actualmente dirijo mi propio estudio, ofreciendo soluciones completas que incluyen diseño conceptual, documentación técnica. planificación y dirección técnica de obras.
+Actualmente dirijo mi estudio SCANLABB, especializado en Servicios de Diseño · Digitalización · Planos · 3D · Desarrollo Web Y 
+
+Soluciones para Ingeniería y Arquitectura 
 
 
 ---
-
-### Servicios de Diseño y Construcción
-
-- **Diseño Residencial** — Diseño de viviendas (urbanas y rurales) y edificaciónes.
-- **Diseño Comercial** — Diseño de locales y centros comerciales.
-- **Ampliaciones y Remodelaciones** — Modificaciones para optimizar espacios.
-- **Logística e Industria** — Depósitos, naves industriales y centros logísticos.
 
 
 ### Infraestructura y Entorno de Trabajo
 
 - **Trabaja con estaciones multisistema** (Debian, macOS y Windows). 
-- **Para clientes corporativos** utiliza AutoCAD, Civil 3D, Revit y SAP según cada proyecto. 
-- **Para clientes privados** emplea FreeCAD, BonsaiBIM y QGIS sobre Debian, reduciendo costos sin perder precisión. 
-- **Mantiene compatibilidad** con formatos IFC, DWG y RVT, 
-- **Desarrollo web** Crea visualizaciones web con HTML, CSS y JavaScript para proyectos arquitectónicos.
+- **Para clientes corporativos** utiliza sistemas tradicionales como AutoCAD, Civil 3D, Revit y SAP según cada proyecto. 
+- **Para clientes privados** emplea sistemas abiertos como FreeCAD, OpenCAD Studio, CADCraft, RustGIS, QGIS sobre Debian, reduciendo costos sin perder precisión. 
+- **Mantiene compatibilidad** con formatos IFC, DWG y RVT. 
+- **Desarrollo de plataformas web** Desarrolla sistemas de información web (SII) para visualización de planos, documentos de Ingeniería y arquitectura.
 
 ---
 
